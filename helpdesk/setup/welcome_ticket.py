@@ -5,7 +5,7 @@ from helpdesk.helpdesk.doctype.hd_ticket.hd_ticket import (
 )
 
 AUTHOR_EMAIl = "sabu@frappe.io"
-AUTHOR_NAME = "Sabu Siyad"
+AUTHOR_NAME = "Kanheya"
 CONTENT = """
 <p>
 Hi 👋
@@ -21,7 +21,7 @@ https://frappedesk.com/helpdesk</a>
 <br><br>
 Best,
 <br>
-Sabu Siyad | Frappe Helpdesk.
+Kanheya | Frappe Helpdesk.
 """
 
 
